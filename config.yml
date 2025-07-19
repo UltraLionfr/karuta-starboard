@@ -1,0 +1,12 @@
+messages:
+  error: "❌ An error occurred while executing the command."
+  emoji_set_success: "Emoji set: {emoji}"
+  starboard_set_success: "Channel set: {channel}"
+  embed_jump_text: "Click to jump to message!"
+
+appearance:
+  embed_color: "#ff5733"
+
+activity:
+  name: "Made by UltraLion"
+  type: "WATCHING"  # PLAYING, LISTENING, COMPETING, WATCHING
